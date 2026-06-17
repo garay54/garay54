@@ -12,6 +12,9 @@ Construyo sistemas de IA aplicada, herramientas de vision por computadora y prod
 
 ### Computer Vision & Applied AI
 
+- [XAI-Crack-Detection](https://github.com/garay54/XAI-Crack-Detection) — Explainable AI utilities for YOLO crack detection with EigenCAM and LIME.  
+  Herramientas de IA explicable para interpretar detecciones de grietas con EigenCAM y LIME.
+
 - [CracksFIS](https://github.com/garay54/CracksFIS) — Fuzzy logic system for evaluating cracks using width, length, completeness, and density.  
   Sistema de logica difusa para evaluar grietas a partir de anchura, longitud, completitud y densidad.
 
@@ -28,6 +31,9 @@ Construyo sistemas de IA aplicada, herramientas de vision por computadora y prod
   Herramientas de captura y extraccion para flujos de trabajo con camaras Intel RealSense D435i/D435if.
 
 ### Web & Product Engineering
+
+- [RankVideo](https://github.com/garay54/RankVideo) — Electron desktop editor for producing TOP N ranking videos.  
+  Editor de escritorio Electron para producir videos de ranking TOP N.
 
 - [landingpagemg](https://github.com/garay54/landingpagemg) — Landing page foundation for professionals with scheduling and payment-oriented product flow.  
   Base de landing page para profesionistas con enfoque en agenda, servicios y flujo comercial.
@@ -46,7 +52,7 @@ Construyo sistemas de IA aplicada, herramientas de vision por computadora y prod
 
 ## Technical Stack / Tecnologias
 
-Python · PyTorch · YOLO · Optuna · OpenCV · Intel RealSense · Fuzzy Logic · TypeScript · React · Next.js · Supabase · Vercel
+Python · PyTorch · YOLO · XAI · Optuna · OpenCV · Intel RealSense · Fuzzy Logic · TypeScript · React · Electron · Next.js · Supabase · Vercel
 
 ---
 
